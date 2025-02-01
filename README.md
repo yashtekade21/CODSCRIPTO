@@ -1,4 +1,5 @@
-Laptop Store E-Commerce Application
+**Laptop Store E-Commerce Application**
+
 A simple Python-based desktop application for an e-commerce store that sells laptops. The application allows users to browse laptops, add them to their cart, provide customer details, and place an order. The application uses a graphical user interface (GUI) built with Tkinter and interacts with a MySQL database to store order details.
 
 Features
