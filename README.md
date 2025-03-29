@@ -56,7 +56,7 @@ This table will store details about the laptops ordered, and it has a foreign ke
 How to Run the Application
 Clone the Repository:
 
-**git clone https://github.com/yashtekade21/laptop-store-ecommerce.git
+**git clone https://github.com/yashtekade21/CODSCRIPTO.git
 cd laptop-store-ecommerce**
 Configure MySQL Connection: In the Python file (main.py or the script file), make sure to update the MySQL connection details to match your local MySQL setup:
 
